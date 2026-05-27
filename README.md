@@ -1,8 +1,8 @@
 # Olá, eu sou a Nathália de Queiroz Antunes! 👋
 
-<!-- BANNER / GIF DE PIXEL ART NO TOPO -->
+<!-- BANNER / GIF DE PIXEL ART DO SEU PRÓPRIO REPOSITÓRIO -->
 <div align="center">
-  <img src="https://media.rawg.io/media/screenshots/000/000000072/rawg_screenshot.jpg" width="500" alt="Pixel Art Coding" />
+  <img src="perfil.gif" width="500" alt="Pixel Art Coding" />
 </div>
 
 <br>
@@ -35,15 +35,6 @@ Sou graduada em **Radiologia** e atualmente estou em uma transição de carreira
 
 ---
 
-## 📈 Minhas Estatísticas (GitHub Stats)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nathaliaa-qa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nathaliaa-qa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ## 📫 Vamos nos conectar?
 <p align="left">
   <a href="https://github.com/nathaliaa-qa" target="_blank">
@@ -53,9 +44,3 @@ Sou graduada em **Radiologia** e atualmente estou em uma transição de carreira
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nathaliaa-qa&label=Visualizações%20no%20Perfil&color=purple&style=flat" alt="Contador de Visitas" />
-</div>
