@@ -2,17 +2,17 @@
 
 <!-- BANNER / GIF DE PIXEL ART NO TOPO -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwN3Znd3B0M3pnd3B0M3pnd3B0M3pnd3B0M3pnd3B0M3pndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCwQ66S7C/giphy.gif" width="600" alt="Pixel Art Coding GIF">
+  <img src="https://blog.gft.com/wp-content/uploads/2017/04/GIF_Coding.gif" width="500" alt="Pixel Art Coding GIF">
 </div>
 
 <br>
 
 ## 🌌 Sobre Mim
-Sou graduada em **Radiologia** e atualmente estou em uma transição de carreira focada e intensa para o ecossistema de **Tecnologia**. Sou apaixonada por desvendar lógica, resolver problemas através de linhas de código e explorar o universo dos dados.
+Sou formada em tecnologo de **Radiologia** e atualmente estou em uma transição de carreira focada e intensa para o ecossistema de **Tecnologia**. Sou apaixonada por desvendar lógica, resolver problemas através de linhas de código e explorar o universo dos dados.
 
-- 🚀 Atualmente em uma residência intensiva de desenvolvimento **Full Stack**.
+- 🚀 Atualmente em uma residência intensiva de desenvolvimento **Full Stack** pelo **SERRATEC**
 - 📊 Aprofundando conhecimentos em **Análise de Dados** pela Alura.
-- 🧠 Entusiasta de Física Nuclear, lógica pura e jogos de RPG (onde encontrei minha primeira conexão com o mundo de dados e "grimoires" de código!).
+- 🧠 Entusiasta de Física Nuclear, lógica e jogos de MMORPG (onde encontrei minha primeira conexão com o mundo de dados e "grimórios" de código!).
 - 🎯 Meu objetivo é unir minha bagagem na área da saúde com o desenvolvimento de software e soluções em dados.
 
 ---
