@@ -11,11 +11,11 @@
 <br>
 
 ## 🌌 Sobre Mim
-Sou graduada em **Radiologia** e atualmente estou em uma transição de carreira focada e intensa para o ecossistema de **Tecnologia**. Sou apaixonada por desvendar lógica, resolver problemas através de linhas de código e explorar o universo dos dados.
+Sou formada em tecnólogo em **Radiologia** e atualmente estou em uma transição de carreira focada e intensa para o ecossistema de **Tecnologia**. Sou apaixonada por desvendar lógica, resolver problemas através de linhas de código e explorar o universo dos dados.
 
-- 🚀 Atualmente em uma residência intensiva de desenvolvimento **Full Stack**.
+- 🚀 Atualmente em uma residência intensiva de desenvolvimento **Full Stack** pelo **Serratec**
 - 📊 Aprofundando conhecimentos em **Análise de Dados** pela Alura.
-- 🧠 Entusiasta de Física Nuclear, lógica pura e jogos de RPG (onde encontrei minha primeira conexão com o mundo de dados e "grimoires" de código!).
+- 🏥 Vivência na área hospitalar
 - 🎯 Meu objetivo é unir minha bagagem na área da saúde com o desenvolvimento de software e soluções em dados.
 
 ---
@@ -43,7 +43,7 @@ Sou graduada em **Radiologia** e atualmente estou em uma transição de carreira
   <a href="https://github.com/nathaliaa-qa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/nath%C3%A1lia-de-queiroz-antunes-a7147b302/" target="_blank">
+  <a href="https://www.linkedin.com/in/nath%C3%A1lia-queiroz-651755219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
