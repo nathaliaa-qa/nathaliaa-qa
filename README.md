@@ -15,7 +15,7 @@ Sou formada em tecnólogo em **Radiologia** e atualmente estou em uma transiçã
 
 - 🚀 Atualmente em uma residência intensiva de desenvolvimento **Full Stack** pelo **Serratec**
 - 📊 Aprofundando conhecimentos em **Análise de Dados** pela Alura.
-- 🏥 Vivência na área hospitalar
+- 🏥 Vivência na área hospitalar e radiológica ☢️
 - 🎯 Meu objetivo é unir minha bagagem na área da saúde com o desenvolvimento de software e soluções em dados.
 
 ---
