@@ -1,8 +1,11 @@
-# Olá, eu sou a Nathália de Queiroz Antunes! 👋
-
-<!-- BANNER / GIF DE PIXEL ART DO SEU PRÓPRIO REPOSITÓRIO -->
+<!-- NOME CENTRALIZADO -->
 <div align="center">
-  <img src="perfil.gif" width="500" alt="Pixel Art Coding" />
+  <h1>Olá, eu sou a Nathália Queiroz! 👋</h1>
+</div>
+
+<!-- BANNER / GIF DE PIXEL ART DO SEU PRÓPRIO REPOSITÓRIO (MENORZINHO E CENTRALIZADO) -->
+<div align="center">
+  <img src="perfil.gif" width="180" alt="Pixel Art Coding" />
 </div>
 
 <br>
