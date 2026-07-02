@@ -14,7 +14,7 @@
 Sou formada em tecnólogo em **Radiologia** e atualmente estou em uma transição de carreira focada e intensa para o ecossistema de **Tecnologia**. Sou apaixonada por desvendar lógica, resolver problemas através de linhas de código e explorar o universo dos dados.
 
 - 🚀 Atualmente em uma residência intensiva de desenvolvimento **Full Stack** pelo **Serratec**
-- 📊 Aprofundando conhecimentos em **Análise de Dados** pela Alura.
+- 📊 Aprofundando conhecimentos em **Dados e IA** pela Alura.
 - 🏥 Vivência na área hospitalar e radiológica ☢️
 - 🎯 Meu objetivo é unir minha bagagem na área da saúde com o desenvolvimento de software e soluções em dados.
 
